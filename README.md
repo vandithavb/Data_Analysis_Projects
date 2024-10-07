@@ -40,9 +40,6 @@ I believe in the transformative power of data. These projects not only serve as 
 I welcome feedback, suggestions, and collaboration from fellow data enthusiasts, professionals, and learners. If you want to contribute, feel free to feel reach out at **vanditha.vb@gmail.com** Together, let’s make data-driven discoveries!
 
 
-Here’s how you can add a LinkedIn icon with the link to your README.md file:
-
-
 ## LinkedIn  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanditha-vb-6b9b12196/)
 
