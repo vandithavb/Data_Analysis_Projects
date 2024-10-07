@@ -11,6 +11,9 @@ Here's a list of the current projects included in this repository:
    - Performed data analysis on a Kaggle movie dataset to identify significant correlations and trends. Processed data, calculated correlations, and visualized insights using scatter plots and heatmaps.
    - Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
+2. **[Bellabeat Smart Device Data Analysis Project](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Smart%20Device%20Data%20Analysis):**
+   - This project analyzes Bellabeat smart device data using R programming, exploring user activity, sleep patterns, and wellness trends to provide insights and actionable recommendations for product improvements and growth opportunities.
+   - Tools: R programming, tidyverse, Kaggle
 
 ## Tools & Technologies
 Each project leverages a variety of modern tools and technologies for comprehensive data analysis and visualization:
