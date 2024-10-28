@@ -15,6 +15,10 @@ Here's a list of the current projects included in this repository:
    - This project analyzes Bellabeat smart device data using R programming, exploring user activity, sleep patterns, and wellness trends to provide insights and actionable recommendations for product improvements and growth opportunities.
    - Tools: R programming, tidyverse, Kaggle
 
+3. **[Global CO₂ Emissions Visualization](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Global%20co2%20emissions):**
+   - Developed an interactive Tableau dashboard to analyze global CO₂ emissions per capita across countries and regions, showcasing emission trends and enabling insightful comparisons. This visualization provides a tool to explore historical and regional emission data for a better understanding of global environmental impacts.
+   - Tools: Tableau, Data Cleaning, Data Analysis
+
 ## Tools & Technologies
 Each project leverages a variety of modern tools and technologies for comprehensive data analysis and visualization:
 
