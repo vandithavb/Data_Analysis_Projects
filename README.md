@@ -19,6 +19,10 @@ Here's a list of the current projects included in this repository:
    - Developed an interactive Tableau dashboard to analyze global CO₂ emissions per capita across countries and regions, showcasing emission trends and enabling insightful comparisons. This visualization provides a tool to explore historical and regional emission data for a better understanding of global environmental impacts.
    - Tools: Tableau, Data Cleaning, Data Analysis
 
+3. **[Restaurant Order Analysis](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Restaurant%20Order%20Analysis):**
+   - Conducted a comprehensive SQL analysis on a restaurant’s database to explore menu structure, order trends, and spending behaviors. Insights include menu composition and pricing, popular items, high-volume orders, and top spending customers, aiding in decision-making for pricing, inventory, and marketing strategies.
+   - **Tools**: SQL, Data Analysis, Data Aggregation
+
 ## Tools & Technologies
 Each project leverages a variety of modern tools and technologies for comprehensive data analysis and visualization:
 
