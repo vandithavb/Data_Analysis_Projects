@@ -6,9 +6,9 @@ This project provides an analysis of a restaurant's database, focusing on insigh
 ## Project Overview
 
 The purpose of this analysis is to gain insights into:
-- **Menu Structure and Pricing**: An overview of the variety and price distribution of menu items.
+- **Menu Structure and Pricing**: An overview of menu items' variety and price distribution.
 - **Order Patterns**: Identification of ordering trends, including popular items and categories.
-- **High-Spend Orders**: Examination of orders with the highest spending to understand customer preferences and high-value items.
+- **High-Spend Orders**: Examine orders with the highest spending to understand customer preferences and high-value items.
 
 ## Database Overview
 
@@ -41,6 +41,6 @@ The purpose of this analysis is to gain insights into:
 
 ## Conclusion
 
-This analysis reveals valuable insights into menu item popularity, order patterns, and customer spending behaviors. The results can guide decision-making in pricing, menu adjustments, inventory planning, and targeted marketing strategies.
+This analysis reveals valuable insights into menu item popularity, order patterns, and customer spending behaviours. The results can guide decision-making in pricing, menu adjustments, inventory planning, and targeted marketing strategies.
 
 
