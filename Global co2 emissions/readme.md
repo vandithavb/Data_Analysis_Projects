@@ -12,17 +12,17 @@ The "Global CO₂ Emissions" visualization presents:
 - Per capita emissions, allowing for meaningful comparisons between nations.
 - Regional insights, showcasing how different parts of the world contribute to CO₂ emissions.
 
-## Key Features
-
-- **Interactivity**: Hover and filter options allow users to explore data by year, region, and country.
-- **Comparative Analysis**: Easy comparisons between countries and regions to understand emission patterns.
-- **Visual Insights**: Engaging visuals that highlight high-emission regions and changes over time.
-
 ## Skills and Tools
 
 - **Tableau**: Developed the visualization using Tableau for interactive data exploration.
 - **Data Analysis**: Conducted data cleaning and analysis to prepare the dataset for visualization.
 - **Data Source**: The dataset includes historical CO₂ emission records from global data repositories.
+
+## Key Features
+
+- **Interactivity**: Hover and filter options allow users to explore data by year, region, and country.
+- **Comparative Analysis**: Easy comparisons between countries and regions to understand emission patterns.
+- **Visual Insights**: Engaging visuals that highlight high-emission regions and changes over time.
 
 
 ## Future Improvements
