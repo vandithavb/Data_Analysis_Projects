@@ -7,6 +7,12 @@ This project analyzes a movie dataset from Kaggle to discover correlations betwe
 - **Source:** [Kaggle Movie Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies/data)
 - The dataset includes movie attributes such as budget, gross earnings, IMDb scores, production companies, and more.
 
+## Tools & Libraries
+- **Pandas**: Data cleaning and manipulation.
+- **NumPy**: Numerical operations.
+- **Matplotlib & Seaborn**: Data visualization.
+- **Jupyter Notebook**: For interactive data analysis and visualization.
+
 ## Key Steps
 
 1. **Data Cleaning:**
@@ -28,11 +34,6 @@ This project analyzes a movie dataset from Kaggle to discover correlations betwe
    - **Budget** and **Votes** have the highest correlation with **Gross Earnings**.
    - Other features, like **Company**, show a lower correlation with gross earnings, indicating a lesser impact on movie success.
 
-## Tools & Libraries
-- **Pandas**: Data cleaning and manipulation.
-- **NumPy**: Numerical operations.
-- **Matplotlib & Seaborn**: Data visualization.
-- **Jupyter Notebook**: For interactive data analysis and visualization.
 
 ## Running the Project
 1. Install the required libraries:
