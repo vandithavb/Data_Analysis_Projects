@@ -10,6 +10,9 @@ The purpose of this analysis is to gain insights into:
 - **Order Patterns**: Identification of ordering trends, including popular items and categories.
 - **High-Spend Orders**: Examine orders with the highest spending to understand customer preferences and high-value items.
 
+## Tools
+- **SQL, Data Analysis, Data Aggregation**
+
 ## Database Overview
 
 ### Tables Used
