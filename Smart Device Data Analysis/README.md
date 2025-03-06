@@ -3,6 +3,10 @@
 ## Overview
 This project analyzes Bellabeat smart device data using R programming to explore patterns in user activity, sleep habits, and wellness trends. The goal is to provide insights and actionable recommendations that help Bellabeat enhance their products and identify growth opportunities.
 
+## Tools & Libraries
+- **R Programming**: Data cleaning and analysis.
+- **tidyverse (dplyr, ggplot2)**: Data manipulation and visualization.
+
 ## Dataset
 - **Source:** [Kaggle Bellabeat Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 - The dataset includes attributes related to users' physical activity, sleep patterns, and overall wellness of 30 Fitbit users.
@@ -35,10 +39,6 @@ This project analyzes Bellabeat smart device data using R programming to explore
    - Promote short, high-intensity workouts to increase active minutes.
    - Send reminders to break up long sedentary periods with activity prompts.
    - Provide personalized sleep tips to improve sleep consistency.
-
-## Tools & Libraries
-- **R Programming**: Data cleaning and analysis.
-- **tidyverse (dplyr, ggplot2)**: Data manipulation and visualization.
 
 ## Running the Project
 1. Download the dataset from Kaggle.
