@@ -23,11 +23,12 @@ This project analyzes survey responses from data professionals, exploring salary
 - 💰 **Highest Paying Job Role:** **Data Scientists** earn the highest average salary  
 - 💻 **Most Popular Programming Language:** **Python** dominates among data professionals  
 - 📊 **Breaking into Data:** **6.98%** of respondents find it **very difficult** to enter the data field  
-- 😊 **Job Satisfaction & Work-Life Balance:**  
-  - **USA offers higher salaries** compared to other countries.  
-  - **USA respondents report better work-life balance** and **higher happiness index** than other regions.  
+- 😊 **Job Satisfaction & Work-Life Balance:**
   - **Salary Happiness Index:** **4.27/10**  
   - **Work-Life Balance Happiness Index:** **5.74/10**  
+  - **USA offers higher salaries** compared to other countries.  
+  - **USA respondents report better work-life balance** and **higher happiness index** than other regions.  
+
 
 ---
 
