@@ -4,7 +4,7 @@
 This project analyzes survey responses from data professionals, exploring salary trends, job satisfaction, programming language preferences, and challenges in breaking into the data field. The insights are visualized using **Power BI**.
 
 - **Dataset Source:** The dataset is from a survey conducted by **Alex Freberg**.  
-- **Tools Used:** Power BI, Power Query (for data cleaning and transformation)  
+- **Tools Used:** Power BI
 
 ---
 
