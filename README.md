@@ -11,7 +11,7 @@ Here's a list of the current projects included in this repository:
    - Performed data analysis on a Kaggle movie dataset to identify significant correlations and trends. Processed data, calculated correlations, and visualized insights using scatter plots and heatmaps.
    - Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-4. **[Data Professional Survey Insights](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Data%20Professional%20Survey):**
+2. **[Data Professional Survey Insights](https://github.com/vandithavb/Data_Analysis_Projects/tree/main/Data%20Professional%20Survey):**
    - Developed an interactive Power BI dashboard analyzing responses from 630+ data professionals, uncovering salary trends and skill preferences.
    - Used Power Query for data transformation and data cleaning, preparing structured insights for visualization.
    - **Tools**: Power BI
