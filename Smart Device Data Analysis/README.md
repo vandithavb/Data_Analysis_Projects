@@ -1,5 +1,8 @@
 # Bellabeat Smart Device Data Analysis
 
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/vandithavb/bellabeat-data-analysis-project)
+
+
 ## Overview
 This project analyzes Bellabeat smart device data using R programming to explore patterns in user activity, sleep habits, and wellness trends. The goal is to provide insights and actionable recommendations that help Bellabeat enhance their products and identify growth opportunities.
 
@@ -47,7 +50,7 @@ This project analyzes Bellabeat smart device data using R programming to explore
    install.packages("tidyverse")
 
 ## For Detailed Analysis and Visualizations:
-You can view the full analysis and visualizations in my Kaggle notebook [here](https://www.kaggle.com/code/vandithavb/bellabeat-data-analysis-project).
+You can view the full analysis and visualizations in my Kaggle notebook linked at the top of this page.
 
 
 
